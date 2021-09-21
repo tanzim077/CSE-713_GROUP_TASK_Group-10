@@ -6,7 +6,7 @@ This is a group of 5 persons
 [Id-------------Name---------------------level]  
 [20166006-------Tanzim Ahmed--------------PG]  
 [20166019-------Nurun Nahar---------------PG]  
-[20266006-------Maksudur Rahman Sohag-----PG]  
+[20266006-------Maksudur Rahaman Sohag-----PG]  
 [18101496-------Mirza Ahmad Shayer--------UG]  
 [21141046-------Afnan Ahmed Crystal-------UG]  
 
