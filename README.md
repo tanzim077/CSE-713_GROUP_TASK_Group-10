@@ -20,5 +20,5 @@ CHAPTER 11 Machine Translation and Encoder-Decoder Models)
 Book Chapter Link:-  https://web.stanford.edu/~jurafsky/slp3/11.pdf  
 
 ## CSE424/713 Task 4 - Paper Idea presentation
-Paper Title: Speech Analysis Using NLP and Deep Learning to Detect Scam Advertisements
+Paper Title: Speech Analysis Using NLP and Deep Learning to Detect Scam Advertisements  
 Youtube link: https://youtu.be/_aNbswCMmb8
