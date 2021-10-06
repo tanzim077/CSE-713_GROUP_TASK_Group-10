@@ -6,3 +6,4 @@ Concept map link: https://viewer.diagrams.net/?tags={}&highlight=0000ff&edit=_bl
 Chapter 11 Machine Translation and Encoder-Decoder Models  
 Book Chapter Link:- https://web.stanford.edu/~jurafsky/slp3/11.pdf  
 
+Youtube Link: https://youtu.be/PIP9E7gg0_o  
