@@ -18,6 +18,7 @@ Youtube Link: https://youtu.be/8a5z79teFd4
 (Book name:Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All rights reserved. Draft of December 30, 2020.  
 CHAPTER 11 Machine Translation and Encoder-Decoder Models)  
 Book Chapter Link:-  https://web.stanford.edu/~jurafsky/slp3/11.pdf  
+Youtube Link: https://youtu.be/PIP9E7gg0_o  
 
 ## CSE424/713 Task 4 - Paper Idea presentation
 Paper Title: Speech Analysis Using NLP and Deep Learning to Detect Scam Advertisements  
